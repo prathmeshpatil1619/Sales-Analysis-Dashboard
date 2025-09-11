@@ -3,5 +3,70 @@ A Sales Analysis Dashboard Project Showing Sales Trends, Orders, Customer Insigh
 # Project Objective
 The primary objective of this project is to conduct a comprehensive analysis of sales data and present the findings through an interactive visual dashboard that supports effective decision-making. Specifically, the project seeks to monitor monthly sales revenue and order trends, evaluate sales distribution across regions and sales representatives, and identify key customers contributing significantly to overall revenue. In addition, it aims to assess order distribution based on transaction ranges and analyze customer preferences for different payment modes. Collectively, these insights are intended to equip management with data-driven intelligence to enhance strategic planning and business performance.
 
-## Dataset Used
-- <a href="https://github.com/prathmeshpatil1619/Sales-Analysis-Dashboard/blob/main/Sales_Data.xlsx">Dataset</a>
+## ✨ Features
+- 📈 Track monthly sales revenue and order trends  
+- 🌍 Analyze sales distribution by region (North, South, East, West)  
+- 👩‍💼 Evaluate performance of salespersons  
+- 🏆 Identify top 5 customers contributing to revenue  
+- 💵 Review order distribution by transaction amount  
+- 💳 Compare payment mode preferences (Cash, Check, Credit Card)  
+- 📊 Interactive charts and slicers for dynamic filtering  
+
+---
+
+## 🛠️ Tech Stack / Tools Used
+- Microsoft Excel  
+  - Pivot Tables  
+  - Pivot Charts  
+
+
+---
+
+## 📂 Dataset
+- Source: Sample sales dataset (self-prepared for analysis)  
+- Format: `.xlsx`
+- <a href="https://github.com/prathmeshpatil1619/Sales-Analysis-Dashboard/blob/main/Sales_Data.xlsx">Dataset</a> 
+ 
+---
+
+## 📊 Results / Dashboard Output
+### Key Insights:
+- **Total Sales:** $435K  
+- **Total Orders:** 369  
+- **Top Region:** North (32%)  
+- **Best Salesperson:** Nancy Freehafer ($104K)  
+- **Top Customer:** Company D ($67K)  
+- **Preferred Payment Mode:** Credit Card ($172K)  
+
+### Dashboard Preview:
+![Dashboard Screenshot](images/dashboard.png)
+
+---
+
+## 📁 Project Structure
+sales-analysis-dashboard-excel/
+├── data/ # Raw dataset
+├── dashboard/ # Final Excel dashboard
+├── images/ # Dashboard screenshots
+├── docs/ # Project report (optional)
+└── README.md # Documentation
+
+
+---
+
+## 🔮 Future Scope
+- Automate dataset updates with Power Query  
+- Add forecasting features using Excel formulas  
+- Expand dashboard with Year-over-Year (YoY) comparisons  
+- Integrate with Power BI for real-time analysis  
+
+---
+
+## 👨‍💻 Author
+Developed by **Prathmesh Patil**  
+
+---
+
+## 📜 License
+This project is released under the **MIT License**. You are free to use, modify, and share with proper attribution.  
+
