@@ -46,10 +46,10 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 
 ## 📁 Project Structure
 sales-analysis-dashboard-excel/
-├── data/ # Raw dataset
-├── dashboard/ # Final Excel dashboard
-├── images/ # Dashboard screenshots
-├── docs/ # Project report (optional)
+├── data # Raw dataset
+├── Dashboard # Final Excel dashboard
+├── Images/ # Dashboard screenshots
+├── Docs/ # Project report (optional)
 └── README.md # Documentation
 
 
