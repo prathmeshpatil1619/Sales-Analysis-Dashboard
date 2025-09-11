@@ -39,7 +39,8 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 - **Preferred Payment Mode:** Credit Card ($172K)  
 
 ### Dashboard Preview:
-![Dashboard Screenshot](C:\Users\Prathmesh\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-02 231552.png)
+<img width="1495" height="696" alt="Screenshot 2025-09-02 231552" src="https://github.com/user-attachments/assets/41d5c269-8878-403b-ae8b-12fe7df52d87" />
+
 
 ---
 
